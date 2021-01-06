@@ -1,3 +1,26 @@
+## acado (noetic) - 1.2.4-1
+
+The packages in the `acado` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release acado --track noetic --rosdistro noetic --new-track` on `Wed, 06 Jan 2021 09:33:58 -0000`
+
+The `acado` package was released.
+
+Version of package(s) in repository `acado`:
+
+- upstream repository: https://github.com/Andor233/acado.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.40`
+
+
 ## acado (melodic) - 1.2.3-0
 
 The packages in the `acado` repository were released into the `melodic` distro by running `/home/rmensing/.local/bin/bloom-release --rosdistro melodic --track melodic acado` on `Thu, 28 Mar 2019 13:13:20 -0000`
